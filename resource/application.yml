@@ -1,0 +1,2 @@
+spring.cloud.config.server.git.uri: https://github.com/Spencer17/automatizacion.git
+server.port: 8888
